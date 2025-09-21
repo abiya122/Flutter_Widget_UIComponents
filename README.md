@@ -1,16 +1,18 @@
-# my_project
+# Flutter Widget UI Components
 
-A new Flutter project.
+A collection of reusable **Flutter UI components** for building modern and responsive mobile applications.  
+This project is part of my practice and development in Flutter.
+
+## Features
+- Custom reusable widgets
+- Organized Flutter project structure
+- Beginner-friendly examples
+- Easy to integrate in any Flutter app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/abiya122/Flutter_Widget_UIComponents.git
